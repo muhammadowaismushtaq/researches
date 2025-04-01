@@ -13,4 +13,4 @@ This was a research based project on Human Activity Recognition aimed to discove
  precise detection of human activity on an uncertain basis, on the other hand, remains a mystery. There has been limited study on human action recognition
  processes in real situations, which drives us to pursue research in this application space. In this paper, we examined several approaches, including CNN+LSTM,
  Inception-V3+CNN, MobileNet, and Inception-V3. Experiments are carried out on the UCF-101 dataset to demonstrate the effectiveness of new models. 
-> To read more about our research, Click [HERE](https://github.com/muhammadowaismushtaq/FYP/blob/main/Documentation/FYP%20Final%20Report.pdf)
+> To read more about our research, Click [HERE](https://nu.insigniails.com/Library/ItemDetail?l=All&i=99588&ti=0)

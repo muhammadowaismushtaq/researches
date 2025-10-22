@@ -16,7 +16,7 @@ This repository serves as a **central hub** for my contributions to various doma
 > This work explored efficiency and precision in real-world surveillance and automated monitoring systems.  
 
 📄 **Read full research:**  
-👉 [VisionBasedHumanActivityRecognition.md →](./vision-based-human-activity-recognition/README.md)
+👉 [Link →](./vision-based-human-activity-recognition/README.md)
 
 ---
 
